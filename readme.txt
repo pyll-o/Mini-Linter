@@ -1,0 +1,1 @@
+Codecademy project on use of array higher order functions
